@@ -1,0 +1,74 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+
+
+.header{
+    background-color: #ffffff;
+
+}
+/*.navbar-toggler-icon{*/
+/*    border: 1px solid #333333 !important;*/
+/*}*/
+
+.pic{
+    height: 100%;
+}
+
+.nav {
+    height: 100px;
+    align-items: center;
+
+}
+
+.main {
+    background-image: url("images/DSCF6142.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+.gallery, .about-me, .contact {
+    background-color: #333333;
+    color: #999999;
+}
+
+.main-content{
+    background-color: #333333;
+    color: #ffffff;
+}
+
+
+.footer {
+    background-color: #666666;
+}
+
+
+input:focus,
+textarea:focus,
+.button:focus {
+    outline: none;
+}
+
+h2, h3 {
+    font-weight: normal;
+    color: #cccccc;
+}
+
+
+
+.main-header h1{
+    color: #666666;
+   letter-spacing: 0.3em;
+}
+
+.main-header h3{
+    letter-spacing: 0.1em;
+}
+
